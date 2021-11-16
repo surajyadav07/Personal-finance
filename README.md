@@ -1,8 +1,11 @@
 # Personal-finance-BI
 
 Cleaned and transformed data using Power Query. Added various synchronised slicers and advanced filters.
+
 Created interactive visualizations like “Q&A”, Charts, and Gauges with conditional formatting and page-level Tooltips.
+
 Created drill-through option between pages that are navigated by buttons. Also, created calculated measures using DAX.
+
 Implemented row-level security based on region and finally, published the visualizations on Power BI Service.
 
 
